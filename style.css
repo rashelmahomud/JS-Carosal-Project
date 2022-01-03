@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 350px;
+    margin: auto;
+    text-align: center;
+}
+
+.review {
+    background: #f9f7f7;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.title {
+    font-size: 30px;
+    font-style: italic;
+    margin-top: 40px;
+}
+
+h4#author {
+    font-size: 33px;
+}
+
+p#job {
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.review {
+    box-shadow: 1px 35px 39px #aaaaaa;
+}
+.review {
+    box-shadow: 11px 45px 69px #aaaaaa;
+}
+
+button.prev-btn {
+    border: navajowhite;
+    margin: 9px;
+}
+
+button.random-btn {
+    padding: 5px;
+    border: none;
+    font-size: 17px;
+    font-weight: bold;
+}
+
